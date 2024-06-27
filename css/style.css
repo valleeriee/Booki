@@ -616,10 +616,6 @@ body {
 
 
     /****** Hebergements And Populaires ***********/
-    .hebergements-and-populaires {
-        
-    }
-
     .hebergements-and-populaires section {
         border-radius: 0;
         padding: var(--main-gap) 20px;
